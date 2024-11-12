@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EliTimeless
 - 👀 I’m interested in React and my little reactive girl 👧🏼
-- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on projects where I can grow
 - 📫 How to reach me: linkedIn: https://www.linkedin.com/in/eli%C5%A1ka-ne%C4%8Dasov%C3%A1-front-end-tester/
 
